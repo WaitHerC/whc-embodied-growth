@@ -45,4 +45,5 @@
 所以我后面把数学基础和 ROS 仿真提为最优先补齐项。
 
 ## 六、截图
-![Uploading deploy_success.png.png…]()
+![部署成功截图](../../images/![Uploading deploy_success.png.png…]()
+)
